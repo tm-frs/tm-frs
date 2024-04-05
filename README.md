@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my profile
 
+- I'm a 🇩🇪 German 🇩🇪 student 👨‍🎓 and I'm interested in software development (I mean why else would I have a GitHub account? 🙃)
+- I'm currently just doing some random stuff with Python and sometimes Java in order to gain experience 👨‍💻
+- I'm especially good at spending too much time not noticing a small problem that causes my code to fail 😑😔
+- I'm bad at thinking of good projects to work on 😪
+- I don't know what else to write now 😶
 <!--
 **tm-frs/tm-frs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
